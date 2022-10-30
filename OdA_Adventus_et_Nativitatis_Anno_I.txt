@@ -166,3 +166,6 @@ RESPONSORIUM
 *//ut convertat corda patrum in filios, et incredulos ad prudentiam iustorum, parare Domino plebem perfectam.
 ℣.//Tu puer propheta Altissimi vocaberis praeibis enim ante faciem Domini parare vias eius,
 *//ut convertat corda patrum in filios, et incredulos ad prudentiam iustorum, parare Domino plebem perfectam.
+
+
+GIT-TEST
